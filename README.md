@@ -2,7 +2,7 @@
 # Demo Business Analysis (DOOH industry)
 **Analysis report on the effectiveness of advertising campaigns in the digital out-of-home industry (with mock-up data).**
 
-Access here for the entire presentation deck.
+**Access [here](https://drive.google.com/file/d/1uRN8DER-Dbr1rJ0qQKvamwv5sgdhPHEa/view?usp=sharing) for the full presentation slide.**
 
 
 <p align="center">
